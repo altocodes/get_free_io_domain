@@ -7,7 +7,7 @@ How to use
 First install all necessary libraries generate all possible variants
 
 ```
-npm install dns fs
+npm install dns fs transliteration
 node generate.js
 ```
 
